@@ -6,7 +6,7 @@ import java.util.*;
 public class MainaderiaList implements Mainaderia {
 
     // Referencia a objecte de la classe List on "guardarem" les criatures...
-    private List contingut;
+    
     
     public MainaderiaList() {
         // crear la llista. Inicialment serà buida, clar...
