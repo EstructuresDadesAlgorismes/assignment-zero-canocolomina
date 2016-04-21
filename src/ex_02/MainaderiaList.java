@@ -4,7 +4,7 @@ import p0_material.*;
 import java.util.*;
 
 public class MainaderiaList implements Mainaderia {
-
+int i;
     // Referencia a objecte de la classe List on "guardarem" les criatures...
     private List contingut;
     
